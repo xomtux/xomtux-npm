@@ -1,0 +1,7 @@
+{
+    "name": "xomtux-npm",
+    "version": "1.0.0",
+    "bin": {
+        "xomtux-npm": "index.js"
+    }
+}
